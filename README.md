@@ -5,6 +5,8 @@ To create a classifier using specialized layers for text data such as Embedding 
 ## PROBLEM STATEMENT AND DATASET
 The program enables us to classify the given BBC dataset into its respective areas like different categories, for example buisness, sports and tech using Deep learning techniques, which includes loading and preprocessing the data, creating the neural network model, training and evaluation its performance.
 
+![image](https://github.com/user-attachments/assets/0bfa9ce4-bbfc-4e9e-8fff-9b7d4fcee80e)
+
 
 ## DESIGN STEPS
 ## STEP 1:
